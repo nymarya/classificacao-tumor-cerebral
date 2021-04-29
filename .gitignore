@@ -1,4 +1,7 @@
 venv/
-data/external/fetal_health.csv
+data/external/*
+data/processed/*
 
 .idea
+
+.ipynb_checkpoints
