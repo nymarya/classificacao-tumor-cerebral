@@ -1,7 +1,7 @@
-classificacao-saude-fetal
+classificacao-tumor-cerebral
 ==============================
 
-Classificação de saúde fetal
+Classificação de tumor cerebral usando PCA e SVC
 
 Project Organization
 ------------
